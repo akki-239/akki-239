@@ -1,0 +1,13 @@
+https://edeltech.sharepoint.com/_layouts/15/AccessDenied.aspx
+
+Shadow file location (Cloud) now getting Saved
+MFA issue
+LDAP need to check with new created
+SMTP-Fixed
+One Drive local drive scan issue
+Difference in event time stamp issue
+
+4929-3813-3266-4295
+5370-4638-8881-3020
+4916-4811-5814-8111
+4916-4034-9269-8783
